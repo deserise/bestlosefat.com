@@ -1,0 +1,5 @@
+var productName="KETO TRIM FAST";
+var productUrl="https://exists-mazard.icu/click";
+
+$('.productName').html(productName);
+$('a').attr('href',productUrl);

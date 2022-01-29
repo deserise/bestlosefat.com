@@ -1,0 +1,24 @@
+@font-face {
+  font-family: 'Tinos';
+  font-style: italic;
+  font-weight: 400;
+  src: url(6a992d5529f459a44fee58c733255e86/css/345d03c851dffa384662418d0b4aa9b8.woff) format('woff');
+}
+@font-face {
+  font-family: 'Tinos';
+  font-style: italic;
+  font-weight: 700;
+  src: url(6a992d5529f459a44fee58c733255e86/css/df1bcbbe56c2b62bd1a8118e2de0fe65.woff) format('woff');
+}
+@font-face {
+  font-family: 'Tinos';
+  font-style: normal;
+  font-weight: 400;
+  src: url(6a992d5529f459a44fee58c733255e86/css/799f7d5ce3c96cfe639a8e8f3562de36.woff) format('woff');
+}
+@font-face {
+  font-family: 'Tinos';
+  font-style: normal;
+  font-weight: 700;
+  src: url(6a992d5529f459a44fee58c733255e86/css/d551bb42ce0257050a60d835fa8665c4.woff) format('woff');
+}
